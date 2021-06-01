@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button16"
+            android:layout_width="363dp"
+            android:layout_height="69dp"
+            android:text="ПЕРВАЯ КНОПКА" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="368dp"
+            android:layout_height="match_parent"
+            android:text="ЧЕТВЕРТАЯ КНОПКА" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button18"
+            android:layout_width="wrap_content"
+            android:layout_height="62dp"
+            android:text="ВТОРАЯ КНОПКА" />
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ПЯТАЯ КНОПКА" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button19"
+            android:layout_width="wrap_content"
+            android:layout_height="69dp"
+            android:text="ТРЕТЬЯ КНОПКА" />
+
+        <Button
+            android:id="@+id/button20"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ШЕСТАЯ КНОПКА" />
+    </TableRow>
+</TableLayout>

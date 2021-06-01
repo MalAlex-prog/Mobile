@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="1000dp">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="TextView"
+            android:textSize="60sp" />
+
+        <Button
+            android:id="@+id/button24"
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button25"
+            android:layout_width="500dp"
+            android:layout_height="match_parent"
+            android:text="Button" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="TextView"
+            android:textSize="60sp" />
+
+        <Button
+            android:id="@+id/button22"
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button23"
+            android:layout_width="500dp"
+            android:layout_height="match_parent"
+            android:text="Button" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="TextView"
+            android:textSize="60sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button26"
+            android:layout_width="500dp"
+            android:layout_height="match_parent"
+            android:text="Button" />
+    </TableRow>
+</TableLayout>
